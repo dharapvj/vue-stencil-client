@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+ButtonDropdownStencilTest.loadComponents("khhhevwb",function(t,n,o,e,i){var l=function(){function t(){}return t.prototype.log=function(t){console.log(t.detail)},t.prototype.render=function(){return n("div",null,"Hello, my name is ",this.first," ",this.last,n("button-dropdown",{title:"stencil"},"The content in the slot!"))},t}();t["MY-NAME"]=l},["MY-NAME",[["first",1,1],["last",1,1]],{}]);
